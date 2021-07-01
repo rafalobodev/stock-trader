@@ -1,0 +1,27 @@
+++++++++++++++++terminal++++++++++++++++++++++++++++++++++++++++++++++++
+*npm install -g @vue/cli   : instalar o vue cliente de forma global caso sua maquina não esteja com vue client
+*vue create stock-trader   :cria o projeto em vue escolher se quer default os plugins
+*vue add vuetify   :add vuetify na aplicação é como um html melhor eu diria
+*npm run serve   : rodar o projeto na porta 8080
+*npm i --save vue-router    : para criar as rotas url das paginas do projeto
+*npm i --save vuex   : instalar o vuex no projeto
+*npm i --save axios   : axios na aplicação para mandar para o backend
+
+++++++++++++++++terminal adicionais++++++++++++++++++++++++++++++++++++++++++++++++
+*rm -rf node_modules/   : se quiser excluir o node mudules
+*npm i   : apos excluido apenas esse comando cria node modules de novo por causa do package.json
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+*vue devtools   : extenção do vue no google chrome.. clicando em console do browser da aplicação vai ter a opção vue
+onde vai fazer uma compra, voce pode reverter a ação com revert usando time travel
+
+
+
+*npm run serve   : rodar o projeto na porta 8080
+<!---->
+/**/
